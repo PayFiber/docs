@@ -25,9 +25,9 @@ site_author: Alexander Asomba
 site_url: https://payfiber.github.io/documentation
 
 # Repository
-repo_name: payfiber/docs.github.io
+repo_name: payfiber/documentation
 repo_url: https://github.com/payfiber/documentation
-#edit_uri: ""
+edit_uri: ""
 
 # Copyright
 copyright: 'Copyright &copy; 2018 Payfiber'
