@@ -22,11 +22,11 @@
 site_name: Payfiber Docs
 site_description: Payfiber Documentation
 site_author: Alexander Asomba
-site_url: https://payfiber.github.io/payfiber-docs/
+site_url: https://payfiber.github.io/docs
 
 # Repository
-repo_name: payfiber/payfiber-docs
-repo_url: https://github.com/payfiber/payfiber-docs
+repo_name: payfiber/docs.github.io
+repo_url: https://github.com/payfiber/docs
 #edit_uri: ""
 
 # Copyright
