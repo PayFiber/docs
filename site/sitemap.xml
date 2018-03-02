@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/getting-started/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/admonition/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/codehilite/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/footnotes/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/metadata/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/permalinks/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://payfiber.github.io/documentation/extensions/pymdown/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/specimen/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/customization/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/release-notes/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/authors-notes/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/contributing/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://payfiber.github.io/documentation/license/</loc>
+     <lastmod>2018-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
