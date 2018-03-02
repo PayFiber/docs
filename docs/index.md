@@ -1,6 +1,6 @@
 # Material <small>for MkDocs</small>
 
-!!! info "Call for Contributions: Add languages/translations to Material"
+!!! info "Call for Contributions: Add languages/translations to Material change"
 
     Help translate Material into more languages - it's just **one click** and
     takes approximately **2 minutes**: [click here](http://bit.ly/2EbzFc8)
