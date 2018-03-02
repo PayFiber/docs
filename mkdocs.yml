@@ -19,18 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_name: Payfiber Docs
+site_description: Payfiber Documentation
+site_author: Alexander Asomba
+site_url: https://payfiber.github.io/payfiber-docs/
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: ""
+repo_name: payfiber/payfiber-docs
+repo_url: https://github.com/payfiber/payfiber-docs
+#edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 Martin Donath'
+copyright: 'Copyright &copy; 2016 - 2018 Payfiber'
 
 # Configuration
 theme:
