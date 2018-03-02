@@ -22,15 +22,15 @@
 site_name: Payfiber Docs
 site_description: Payfiber Documentation
 site_author: Alexander Asomba
-site_url: https://payfiber.github.io/docs
+site_url: https://payfiber.github.io/documentation
 
 # Repository
 repo_name: payfiber/docs.github.io
-repo_url: https://github.com/payfiber/docs
+repo_url: https://github.com/payfiber/documentation
 #edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 Payfiber'
+copyright: 'Copyright &copy; 2018 Payfiber'
 
 # Configuration
 theme:
@@ -63,13 +63,13 @@ theme:
 extra:
   social:
     - type: globe
-      link: http://struct.cc
+      link: http://payfiber.com
     - type: github-alt
-      link: https://github.com/squidfunk
+      link: https://github.com/payfiber
     - type: twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/payfiber
     - type: linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://linkedin.com/company/payfiber
 
 # Extensions
 markdown_extensions:
